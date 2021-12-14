@@ -95,8 +95,9 @@ a:active {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
-  margin-left: 6%;
   padding-bottom: 3%;
+  align-items: center;
+  justify-content: center;
 }
 
 .gallery{
